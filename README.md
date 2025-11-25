@@ -92,8 +92,8 @@ src/
 ### **Installation**
 ```bash
 # Clone the repository
-git clone https://github.com/joudathashmi/Company-Intelligence-Portal.git
-cd Company-Intelligence-Portal
+git clone https://github.com/joudathashmi/Company-profile.git
+cd Company-profile
 
 # Install dependencies
 npm install
@@ -245,7 +245,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### **Contact**
 - **Base44 Support**: app@base44.com
-- **Project Issues**: [GitHub Issues](https://github.com/joudathashmi/Company-Intelligence-Portal/issues)
+- **Project Issues**: [GitHub Issues](https://github.com/joudathashmi/Company-profile/issues)
 
 ## 🙏 Acknowledgments
 
