@@ -239,24 +239,19 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 ### **Documentation**
-- [Base44 Documentation](https://docs.base44.com)
 - [React Documentation](https://react.dev)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 
 ### **Contact**
-- **Base44 Support**: app@base44.com
+
 - **Project Issues**: [GitHub Issues](https://github.com/joudathashmi/Company-profile/issues)
 
 ## 🙏 Acknowledgments
 
-- **Base44** - For providing the powerful SDK and AI integration platform
 - **React Team** - For the amazing React framework
 - **Tailwind CSS** - For the utility-first CSS framework
 - **Radix UI** - For accessible component primitives
 - **Lucide** - For the beautiful icon library
 
 ---
-
-**Built with ❤️ using Base44 SDK and modern web technologies**
-
 *Last updated: December 2024*
